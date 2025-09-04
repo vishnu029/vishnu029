@@ -39,7 +39,7 @@
 ### 📂 Featured Projects
 - 🔹 **[AWS Infra with Terraform](https://github.com/vishnu029/aws-terraform-infra)** – VPC, subnets, EC2, ALB, and RDS via IaC  
 - 🔹 **[Jenkins CI/CD Pipeline](https://github.com/vishnu029/jenkins-cicd-project)** – Build → Test → Dockerize → Deploy  
-- 🔹 **[Kubernetes Manifests](#)** – Deployments, Services, Ingress with Helm/YAML  
+- 🔹 **[Kubernetes Manifests](https://github.com/vishnu029/Kubernetes-Deployment)** – Deployments, Services, Ingress with Helm/YAML  
 - 🔹 **[GitHub Actions](#)** – Lint/Test/Build workflow for containerized apps
 
 
