@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vishnu029&label=Profile%20Views&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -48,18 +48,18 @@
 
 ### 📊 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&rank_icon=github&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnu029&show_icons=true&rank_icon=github&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu029&hide_border=true" height="150" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu029&layout=compact&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vishnu-vishnoi-547547228)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnoi.vishnu029@gmail.com)
 
 ---
 
