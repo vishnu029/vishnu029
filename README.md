@@ -37,7 +37,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🔹 **[AWS Infra with Terraform](#)** – VPC, subnets, EC2, ALB, and RDS via IaC  
+- 🔹 **[AWS Infra with Terraform](https://github.com/vishnu029/aws-terraform-infra)** – VPC, subnets, EC2, ALB, and RDS via IaC  
 - 🔹 **[Jenkins CI/CD Pipeline](#)** – Build → Test → Dockerize → Deploy  
 - 🔹 **[Kubernetes Manifests](#)** – Deployments, Services, Ingress with Helm/YAML  
 - 🔹 **[GitHub Actions](#)** – Lint/Test/Build workflow for containerized apps
@@ -52,7 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu029&hide_border=true" height="150" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu029&layout=compact&hide_border=true" height="150" />
+  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu029&layout=compact&hide_border=true" height="150" />
 </p>
 
 ---
