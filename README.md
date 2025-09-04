@@ -2,7 +2,7 @@
 <!-- Replace: your-username, your-linkedin, your.email@example.com -->
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/vishnu029">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vishnu+%F0%9F%91%8B;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Ansible;Automating+today+for+a+better+tomorrow" alt="Typing SVG" />
   </a>
 </p>
@@ -58,7 +58,7 @@
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vishnu-vishnoi-547547228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vishnoi-547547228)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnoi.vishnu029@gmail.com)
 
 ---
