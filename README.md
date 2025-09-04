@@ -1,5 +1,5 @@
 
-<!-- Replace: your-username, your-linkedin, your.email@example.com -->
+
 
 <p align="center">
   <a href="https://github.com/vishnu029">
@@ -51,10 +51,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vishnu029&show_icons=true&rank_icon=github&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu029&hide_border=true" height="150" />
 </p>
+<!--
 <p>
-  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu029&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu029&layout=compact&hide_border=true" height="150" />
 </p>
-
+-->
 ---
 
 ### 🌐 Connect
